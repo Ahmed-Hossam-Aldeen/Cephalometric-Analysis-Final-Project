@@ -3,6 +3,8 @@
 
 [![N|Solid](https://eng.cu.edu.eg/wp-content/uploads/2014/12/logo221.png)](https://eng.cu.edu.eg/en/)
 
+Cairo University - Faculty of Engineering - Biomedical Department
+
 ## _CNN Architectures used_
 
 - #### DenseNet
